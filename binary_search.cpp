@@ -35,9 +35,9 @@ int main()
 } 
 
 
-/*PS D:\pranavdeshmukh> cd "d:\pranavdeshmukh\" ; if ($?) { g++ binary_search.cpp -o binary_search } ; if ($?) { .\binary_search }
+/*PS D:\omkar249> cd "d:\omkar249\" ; if ($?) { g++ binary_search.cpp -o binary_search } ; if ($?) { .\binary_search }
 How many elements:5
 Enter5Elements5 1 7 98 9
 Enter the element to be searched7
 Element found at position:2
-PS D:\pranavdeshmukh> */
+PS D:\omkar249> */
