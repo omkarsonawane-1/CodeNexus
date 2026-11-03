@@ -36,12 +36,12 @@ class Complex {
     }
 
 
-    /*PS C:\Users\Student> cd "d:\pranavdeshmukh\" ; if ($?) { g++ complexnum.cpp -o complexnum } ; if ($?) { .\complexnum }
+    /*PS C:\Users\Student> cd "d:\omkar249\" ; if ($?) { g++ complexnum.cpp -o complexnum } ; if ($?) { .\complexnum }
 complex no. is
 2+3i
 complex no. is
 5+7i
-PS D:\pranavdeshmukh> 
+PS D:\omkar249> 
 */
     
     
