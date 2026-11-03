@@ -111,13 +111,13 @@ int main()
 
 }
 
-/*PS C:\Users\Student> cd "d:\pranavdeshmukh\" ; if ($?) { g++ double_linkedlist.cpp -o double_linkedlist } ; if ($?) { .\double_linkedlist }
+/*PS C:\Users\Student> cd "d:\omkar249\" ; if ($?) { g++ double_linkedlist.cpp -o double_linkedlist } ; if ($?) { .\double_linkedlist }
 
 10<=>20<=>30<=>
 10<=>20<=>30<=>40<=>50<=>60<=>
 10<=>30<=>40<=>50<=>60<=>
 10<=>30<=>40<=>60<=>Data not found in list
 10<=>30<=>40<=>60<=>
-PS D:\pranavdeshmukh> 
+PS D:\omkar249> 
 
 /*
