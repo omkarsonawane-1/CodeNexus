@@ -59,7 +59,7 @@ int main()
 }
 
 
-/*PS D:\pranavdeshmukh> cd "d:\pranavdeshmukh\" ; if ($?) { g++ complexoperaror.cpp -o complexoperaror } ; if ($?) { .\complexoperaror }
+/*PS D:\omkar249> cd "d:\omkar249\" ; if ($?) { g++ complexoperaror.cpp -o complexoperaror } ; if ($?) { .\complexoperaror }
 
 first Complex number:4+5i
 second Complex number:2+3i
