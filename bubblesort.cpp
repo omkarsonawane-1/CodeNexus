@@ -44,8 +44,8 @@ int main()
 }
 
 
-/*PS D:\pranavdeshmukh> cd "d:\pranavdeshmukh\" ; if ($?) { g++ bubblesort.cpp -o bubblesort } ; if ($?) { .\bubblesort }
+/*PS D:\omkar249> cd "d:\omkar249\" ; if ($?) { g++ bubblesort.cpp -o bubblesort } ; if ($?) { .\bubblesort }
 Enter number of elements: 5
 Enter 5 elements: 10 85 56 5 15
 Sorted array: 5 10 15 56 85 
-PS D:\pranavdeshmukh> */
+PS D:\omkar249> */
