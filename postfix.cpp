@@ -52,9 +52,9 @@ return 0;
 }
 /*
 
- cd "d:\pranav123\" ; if ($?) { g++ postfix.cpp -o postfix } ; if ($?) { .\postfix }
+ cd "d:\omkar249\" ; if ($?) { g++ postfix.cpp -o postfix } ; if ($?) { .\postfix }
 
  Enter postfix Expression :623+-382/+*2$3+
 
  Answer=52
-PS D:\pranav123> */
+PS D:\omkar249> */
