@@ -142,7 +142,7 @@ int main()
     return 0;
 }
 
-/*PS D:\pranavdeshmukh> cd "d:\pranavdeshmukh\" ; if ($?) { g++ stack.cpp -o stack } ; if ($?) { .\stack }
+/*PS D:\omkar249> cd "d:\omkar249\" ; if ($?) { g++ stack.cpp -o stack } ; if ($?) { .\stack }
 stack contents after push operation: 
 10
 stack contents after push operation: 
@@ -192,5 +192,5 @@ poped out element is 10
 stack contents after pop operation: 
 stack is empty
 stack contents after pop operation: 
-PS D:\pranavdeshmukh> 
+PS D:\omkar249> 
 */
